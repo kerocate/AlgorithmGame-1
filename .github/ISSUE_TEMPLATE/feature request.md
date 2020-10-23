@@ -2,7 +2,7 @@
 name: 新增需求
 about: 写下需要的内容
 title: "[需求]"
-labels: 'enhancement'
+labels: 'Feature Request'
 assignees: ''
 
 ---
