@@ -7,4 +7,4 @@
 
 #### 本repo由Kerocate于EnTaroCLS一同维护
 
-如何使用GitHub中文文档：https://docs.github.com/cn/free-pro-team@latest/github
+如何使用GitHub，中文文档：https://docs.github.com/cn/free-pro-team@latest/github
