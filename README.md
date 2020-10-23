@@ -6,3 +6,5 @@
 ### 请去Fork EnTaroCLS 的开发repo 并且将您的代码提交至他的repo中。
 
 #### 本repo由Kerocate于EnTaroCLS一同维护
+
+如何使用GitHub中文文档：https://docs.github.com/cn/free-pro-team@latest/github
